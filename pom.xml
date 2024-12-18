@@ -23,6 +23,7 @@
         <module>user-service</module>
         <module>transaccion-service</module>
         <module>solicitud-service</module>
+        <module>autenticacion-server</module>
     </modules>
     <packaging>pom</packaging>
     
